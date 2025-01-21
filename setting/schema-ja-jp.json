@@ -3163,7 +3163,8 @@
                     "&&",
                     "!",
                     "!=",
-                    "continue"
+                    "continue",
+                    "async"
                 ],
                 "type": "string"
             },
