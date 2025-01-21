@@ -2973,6 +2973,7 @@
 							"!",
 							"!=",
 							"continue",
+							"async",
 							"|lambda|"
 						],
 						"type": "string"
