@@ -3418,8 +3418,8 @@
 			}
 		]
 	},
-	"description": "Lua Language Server coded by Lua",
-	"displayName": "Lua",
+	"description": "Lua Language Server coded by Lua (Mercury特供版)",
+	"displayName": "Lua-Mercury特供版",
 	"engines": {
 		"vscode": "^1.86.0"
 	},
@@ -3431,7 +3431,7 @@
 	],
 	"license": "MIT",
 	"main": "./client/out/src/extension",
-	"name": "lua",
+	"name": "lua-mercury",
 	"publisher": "sumneko",
 	"repository": {
 		"type": "git",
@@ -3440,5 +3440,5 @@
 	"sponsor": {
 		"url": "https://github.com/LuaLS/lua-language-server/issues/484"
 	},
-	"version": "3.13.5"
+	"version": "99.0.0"
 }
